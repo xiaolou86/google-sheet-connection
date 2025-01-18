@@ -2,7 +2,7 @@
     "name": "google-sheet-connection",
     "version": "1.0.4",
     "description": "Consume data from a Google spreadsheet for use in your own application",
-    "author": "xiaolou86 <20718693+xiaolou86@users.noreply.github.com>",
+    "author": "xiaolou86 <lzw19860818@aliyun.com>",
     "dependencies": {
         "camelcase": "@3.0.0",
         "isomorphic-fetch": "^2.2.1"
